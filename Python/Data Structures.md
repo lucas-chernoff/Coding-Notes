@@ -8,6 +8,6 @@ sets:
 			set_1.clear()
 			print(set_1)
 				*set()*
-$$\int_{b}^3$$
+
 
 
